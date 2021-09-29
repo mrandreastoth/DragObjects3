@@ -4,7 +4,7 @@ Written by [Andreas Toth](https://github.com/mrandreastoth) based on [DragObject
 Tested using Delphi 10.4.2 under Windows 10.
 
 ## About
-Delphi has built-in support for drag-and-drop, however, it is flawed as the move threshold from the start position does not work but instantly starts the drag operation. This demo both demonstrates the issue as well as tries to implement a work-around, something that, at this stage, is only partially successful.
+Delphi has built-in support for drag-and-drop, however, it is flawed as the move threshold from the start position does not work but instantly starts the drag operation. This demo both demonstrates the issue as well as tries to implement a workaround, something that, at this stage, is only partially successful.
 
 ## Usage
 Compile and run the software then drag-and-drop any of the objects shown above the panel onto the panel itself. To demonstrate Delphi's drag-and-drop issue, use the automatic mode; and, to test the implementation, use the manual mode.
