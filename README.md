@@ -1,7 +1,7 @@
 # DragObjects3
 Written by [Andreas Toth](https://github.com/mrandreastoth) based on [DragObjects2](http://www.blong.com/conferences/borcon2001/draganddrop/4114.htm) for Delphi.
 
-Tested under Delphi 10.4.2.
+Tested using Delphi 10.4.2 under Windows 10.
 
 ## About
 Delphi has built-in support for drag-and-drop, however, it is flawed as the move threshold from the start position does not work but instantly starts the drag operation. This demo both demonstrates the issue as well as tries to implement a work-around, something that, at this stage, is only partially successful.
